@@ -1,0 +1,136 @@
+**COORDENADA**
+0,0 igual a 1,2: false
+0,0 igual a 3,1: false
+0,0 igual a 0,0: true
+Distancia entre 0,0 y 1,2: 2.23606797749979
+Distancia entre 0,0 y 3,1: 3.1622776601683795
+Distancia entre 0,0 y 0,0: -1.0
+**VALORES**
+Añadido true
+Añadido true
+Añadido true
+Resultado consulta planta: -1.0
+Resultado consulta naranja: 0.5
+Nombres y valor:
+	pitaya	1.0
+	fresa	0.035
+	naranja	0.5
+**FRUTO**
+--Fruto 1--
+Datos fruto antes de transformar: Nombre: pitaya Estado: inmaduro Peso: 0.0 ValorCalorico: 0.0
+Transformar 1: false
+Datos fruto: Nombre: pitaya Estado: inmaduro Peso: 0.2 ValorCalorico: 0.2
+Transformar 2: true
+Datos fruto: Nombre: pitaya Estado: comestible Peso: 0.6000000000000001 ValorCalorico: 0.6000000000000001
+--Fruto 2--
+Datos fruto antes de transformar: Nombre: fresa Estado: inmaduro Peso: 0.0 ValorCalorico: 0.0
+Transformar: 1true
+Datos fruto: Nombre: fresa Estado: comestible Peso: 0.6000000000000001 ValorCalorico: 0.021000000000000005
+Transformar: 2false
+Datos fruto: Nombre: fresa Estado: comestible Peso: 1.0 ValorCalorico: 0.035
+--Fruto 3--
+Datos fruto antes de transformar: Nombre: pitaya Estado: inmaduro Peso: 0.0 ValorCalorico: 0.0
+Transformar 1: true
+Datos fruto: Nombre: pitaya Estado: comestible Peso: 0.6000000000000001 ValorCalorico: 0.6000000000000001
+Transformar 2: false
+Datos fruto: Nombre: pitaya Estado: comestible Peso: 1.2000000000000002 ValorCalorico: 1.2000000000000002
+**PLANTA**
+Nota:Como aun no esta plantada no deberia poderse abonar y el estado se mantiene en semilla
+Abonando...
+Abono 1
+Abono 2
+ABONADO
+Estado de la planta: semilla
+Mostrar frutos recolectados: 
+Nombre del fruto: pera Nombre de la planta: peral Planta plantada: null
+Frutos de la planta:
+**HUERTA**
+Plantar peral: true
+Plantar manzano: true
+Plantar peral: true
+Plantar peral: true
+Plantar peral: false
+Plantar nogal: false
+Plantar peral: true
+Plantar peral: false
+Plantar nogal: true
+Plantar manzano: true
+Plantar nogal: true
+Plantar nogal: false
+Plantar platanero: false
+Huerto 1:
+[ 0 ] : null null null manzano
+[ 1 ] : peral peral peral peral
+Huerto 2:
+[ 0 ] : null manzano
+[ 1 ] : nogal nogal
+Consulta huerto1 fila 2 columna 3: null
+Consulta huerto1 fila 0 columna 3: manzano
+Consulta huerto1 fila 1 columna 1: peral
+Consulta huerto1 fila 0 columna 1: null
+A ver si arranca las plantas...
+manza1 plantada
+Planta arrancada: manzano
+manza1 no plantada
+VAMOS A ABONAR
+Abonando...
+Abono 1: 2
+Abono 2: 2
+Abono 3: 2
+Abono 4: 2
+Abono 5: 2
+Abono 6: 2
+Abono 7: 2
+Abono 8: 2
+Abono 9: 1
+Abono 10: 1
+Abono 11: 1
+Abono 12: 1
+Abono 13: 0
+Abono 14: true
+ABONADO
+Estado de la nogal1: adulta Fruto: nuez
+Estado de la nogal2: adulta Fruto: nuez
+Estado de la plata1: semilla Fruto: platano
+Plantas adultas:
+Adulta 1: manzano
+Adulta 2: nogal
+nuez
+Mostrar frutos recolectados: 
+	Posicion 0: pitaya 1.0 comestible
+	Posicion 1: pitaya 2.6 comestible
+	Posicion 2: pitaya 1.6 comestible
+Localizacion huerto1: Coordenada@2f333739
+Localizacion huerto2: Coordenada@77468bd9
+Localizadas:
+	Huerto 0: Huerta@12bb4df8
+	Huerto 1: Huerta@4cc77c2e
+**PERSONA**
+Localizacion huerto3: Coordenada@39a054a5
+John Doe planta en huerta 3: true
+Coordenadas Jhon: Coordenada@2f333739 Cuidador de huerto1: John Doe
+Coordenadas Lara: Coordenada@77468bd9 Cuidador de huerto2: Lara
+Coordenadas Miguel: Coordenada@39a054a5 Cuidador de huerto3: Miguel
+Huerta Jhon: Huerta@12bb4df8
+Huerta Lara: Huerta@4cc77c2e
+Huerta Miguel: Huerta@71bc1ae4
+VAMOS A ABONAR
+Abonando...
+Abona 1: 0
+Abona 2: 0
+Abona 3: 4
+Abona 4: 4
+Abona 5: 4
+Abona 6: 1
+Abona 7: 1
+Abona 8: 1
+ABONADO
+Malas hierbas:
+i: 0
+peral null adulta
+i: 1
+peral null adulta
+i: 2
+peral null adulta
+i: 3
+peral null adulta

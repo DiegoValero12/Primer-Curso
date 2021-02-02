@@ -1,0 +1,123 @@
+-------------------------------TRIFIDOOOOO-------------------------------
+---HUERTOS---
+Huerto 1 Cuidador: Luigi
+[ 0 ] : Peral Peral Peral
+[ 1 ] : null null Cerezo
+[ 2 ] : null null Nogal
+
+Huerto 2 Cuidador: Mario
+[ 0 ] : null null
+[ 1 ] : Almendro Almendro
+[ 2 ] : Nogal Nogal
+[ 3 ] : null Manzano
+-------------------------------VAMOS A ABONAR-------------------------------
+Abonando...
+Abono Cerezo: 1
+Abono Peral: 2
+Abono Nogal: 1 2
+Abono Almendro: 2
+Abono Manzano: 1
+  Mario ahora es Zombie
+Abono Cerezo: 1
+Abono Peral: 2
+Abono Nogal: 1 2
+Abono Almendro: 2
+Abono Manzano: 1
+Abono Cerezo: 1
+Abono Peral: 2
+Abono Nogal: 1 2
+Abono Almendro: 2
+Abono Manzano: 1
+Abono Cerezo: 1
+Abono Peral: 2
+Abono Nogal: 1 2
+Abono Almendro: 2
+Abono Manzano: 1
+ABONADO
+-------------------------------ABONO DE TRIFIDO-------------------------------
+Abono Peral (trifido): Devoro: 3
+ 	Fruto: 1 Peso: 0.0
+ 	Fruto: 2 Peso: 0.0
+Abono Manzano (trifido): Devoro: 2
+ 	Fruto: 1 Peso: 1.2000000000000002
+ 	Fruto: 2 Peso: 1.2000000000000002
+ 	Fruto: 3 Peso: 0.8
+ 	Fruto: 4 Peso: 0.8
+---HUERTOS---
+Huerto 1 Cuidador: Luigi
+[ 0 ] : null Peral null
+[ 1 ] : null null null
+[ 2 ] : null null Nogal
+
+Huerto 2 Cuidador: Mario
+[ 0 ] : null null
+[ 1 ] : Almendro Almendro
+[ 2 ] : null null
+[ 3 ] : null Manzano
+-------------------------------GETPOSICION-------------------------------
+Posiciones:
+	trif2:0 1
+	trif1:3 1
+-------------------------------ABONA-------------------------------
+Frutos que tiene antes: 2
+trif2: true cuidador huerto nuevo: Mario posicion: 0 0
+Frutos que tiene despues: 0
+---HUERTOS---
+Huerto 1 Cuidador: Luigi
+[ 0 ] : null null null
+[ 1 ] : null null null
+[ 2 ] : null null Nogal
+
+Huerto 2 Cuidador: Mario
+[ 0 ] : Peral null
+[ 1 ] : Almendro Almendro
+[ 2 ] : null null
+[ 3 ] : null Manzano
+-------------------------------RECOLECTO-------------------------------
+Recolecto Manzano (trifido1): 
+  Peso frutos:
+Posicion: 0 0
+Recolecto Peral (trifido2): 
+  Peso frutos:
+Posicion: 0 0
+Despues de volver a abonar el trifido...
+Recolecto Peral (trifido2): 
+  Peso frutos:
+  1.2000000000000002
+  1.2000000000000002
+  0.8
+  0.8
+Posicion: 0 0
+---HUERTOS---
+Huerto 1 Cuidador: Luigi
+[ 0 ] : Peral null null
+[ 1 ] : null null null
+[ 2 ] : null null Nogal
+
+Huerto 2 Cuidador: Mario
+[ 0 ] : null null
+[ 1 ] : null null
+[ 2 ] : null null
+[ 3 ] : null null
+-------------------------------OTEA-------------------------------
+Se ha plantado el Peral (trifido2): false
+Se ha plantado el Manzano (trifido1): false
+-------------------------------ARRANCA-------------------------------
+Datos Peral (trifido2):
+  Con posicion
+Arranco Peral (trifido2)
+Datos Peral (trifido2):
+  Sin posicion
+-------------------------------HUERTOS FINAL-------------------------------
+Huerto 1 Cuidador: Luigi
+[ 0 ] : null null null
+[ 1 ] : null null null
+[ 2 ] : null null Nogal
+
+Huerto 2 Cuidador: Mario
+[ 0 ] : null null
+[ 1 ] : null null
+[ 2 ] : null null
+[ 3 ] : null null
+
+-------------------------------FIIIIIIIN-------------------------------------

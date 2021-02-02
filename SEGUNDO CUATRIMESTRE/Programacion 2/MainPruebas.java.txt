@@ -1,0 +1,134 @@
+package p1;
+
+import java.util.ArrayList;
+
+public class MainPruebas {
+	public static void main(String[] args) {
+
+		Coordenada cor = new Coordenada(90, 20);
+		Coordenada cor2 = new Coordenada(90, 20);
+		
+		cor.iguales(cor2);
+		
+		System.out.println(cor.iguales(cor2));
+		
+		
+
+		String s = "Pera";
+		double d = 10;
+		String s2 = "Piña";
+		double d2 = 12.6;
+		String vacio = null;
+		double d3 = -3;
+		String s3 = "kiwi";
+		String s4 = "naranja";
+
+		Valores.add(s4, d2);
+		Valores.add(s, d);
+		Valores.add(s2, d2);
+		Valores.add(s3, d2);
+
+		Fruto pera = new Fruto("pera");
+		Fruto naranja = new Fruto("naranja");
+		Fruto pina = new Fruto("piña");
+		Fruto kiwi = new Fruto("kiwi");
+		pera.transforma(1);
+
+		System.out.println(" " + pera.getEstado() + " " + pera.getNombre() + " " + pera.getPeso() + " "
+				+ pera.valorCalorico() + " " + Valores.consulta("pitaya"));
+
+		Planta naranjo= new Planta ("naranjo","naranja",7);
+		Planta peral = new Planta("peral", "pera", 5);
+		Huerta hu1 = new Huerta(3, 3);
+		Huerta hu2 = new Huerta(4, 3);
+		hu1.planta(peral);
+		hu1.planta(naranjo);
+
+		System.out.println(peral.getEstado());
+
+		peral.abona(4);
+		System.out.println(peral.getEstado());
+
+		peral.abona(9);
+		System.out.println(peral.getEstado());
+
+		peral.abona(7);
+
+		System.out.println(peral.getEstado());
+		System.out.println(peral.getFrutos());
+
+		peral.abona(30);
+		naranjo.abona(20);
+		naranjo.abona(20);
+		naranjo.abona(20);
+		naranjo.abona(20);
+		naranjo.abona(20);
+
+		System.out.println(peral.getFrutos()[0].getNombre());
+		System.out.println(peral.getFrutos()[1]);
+		System.out.println(peral.getFrutos()[2]);
+		System.out.println(peral.getFrutos());
+
+		peral.abona(4666);
+
+		System.out.println("abonamos");
+
+		peral.abona(55);
+		peral.abona(54);
+		peral.abona(70);
+		peral.abona(221);
+		for (int i = 0; i < peral.getFrutos().length; i++) {
+			System.out.print(i + " ");
+			if (peral.getFrutos()[i] != null)
+				System.out.print(peral.getFrutos()[i].getNombre() + " " + peral.getFrutos()[i].getEstado() + " "
+						+ peral.getFrutos()[i].getPeso() + " ");
+		}
+
+		ArrayList<Fruto> frutos = new ArrayList<>();
+		frutos = peral.recolecta();
+		for (int i = 0; i < frutos.size(); i++) {
+			System.out.println(frutos.get(i).getNombre() + " " + frutos.get(i).getPeso());
+		}
+
+		for (int i = 0; i < peral.getFrutos().length; i++) {
+			System.out.print(i + " ");
+			if (peral.getFrutos()[i] != null)
+				System.out.print(peral.getFrutos()[i].getNombre() + " " + peral.getFrutos()[i].getEstado() + " ");
+		}
+		System.out.println(peral.getEstado());
+		
+		Fruto xxx= new Fruto ("limon");
+		Planta pxxx= new Planta ("aberra","xxx",4);
+		hu1.planta(pxxx);
+		
+		
+		pxxx.abona(3);
+		pxxx.abona(3);
+		pxxx.abona(3);
+		
+		System.out.println(pxxx.getEstado()+" "+pxxx.getFrutos()+" "+hu1.getHuerto());
+		for(int f=0; f<hu1.getHuerto().length;f++) {
+			for(int c=0; c<hu1.getHuerto()[f].length;c++) {
+			
+			if(hu1.getHuerto()[f][c]!=null) {
+				
+				System.out.println(f+" "+c+" "+hu1.getHuerto()[f][c]);
+			}
+		}
+		}
+		
+	
+		Persona juancho=new Persona ("Juancho");
+		hu1.localiza(32, 45);
+		hu2.localiza(23,55);
+		System.out.println(Huerta.getLocalizadas());
+		
+		juancho.paseo();
+		System.out.println(juancho.getHuerta());
+		System.out.println(hu1.recolecta("naranja"));
+		
+
+	
+	}
+
+}

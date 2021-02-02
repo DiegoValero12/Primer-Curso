@@ -1,0 +1,221 @@
+/* DNI 48669093-N 	SERRANO MARTINEZ, JOSE MANUEL */
+public class Valkus {
+    
+    private int capacidad;
+    private double carga, plasma, lapso;
+    private Entys [] bodega;
+
+// Constructor de la clase Valkus, se inicializan las propiedades/variables.    
+    public Valkus(int capac,double maxi,double plsm){
+        
+        if(capac>=0){       
+            capacidad = capac;            
+        }else{
+            System.out.println("no es posible tener capacidad negativa");
+            capacidad = 0; 
+        }
+        
+        if(maxi>=0){       
+            carga = maxi;            
+        }else{
+            System.out.println("imposible transportar antimateria");
+            carga = 0; 
+        }
+        
+        if(plsm>0){       
+            plasma = plsm;            
+        }else{
+            System.out.println("imposible emprender viaje");
+            plasma = 1; 
+        }
+     
+        bodega = new Entys[capacidad];
+        for(int i=0 ; i<bodega.length; i++){bodega[i] = null;}
+        
+    }
+/* Se mira si se va a embarcar el Entys que se le pasa, devuelve si puede o no embarcar */      
+    public boolean Embarque(Entys viajero){
+        boolean embarca = true;
+        if(getHuecos()==0){           
+            System.out.println(viajero.Identificar()+": bodega de carga completa");
+            embarca = false;
+        }
+	else{
+	      if(((carga-getPeso())-viajero.getPeso())<0){
+		  System.out.println(viajero.Identificar()+": sobrecarga");
+		  embarca = false;
+	      }
+	      else{
+		  if(viajero.enBodega()){
+		      System.out.println(viajero.Identificar()+": entys ya embarcado");
+		      embarca = false;
+		  }
+	      }
+	}
+        
+        return embarca;
+    }
+/* Se almacenan los Entys de manera que el primero sea el que menos dimensiones tenga , y el ultimo el que mas */
+    public void Almacenar(Entys viajero){
+		boolean hueco_encontrado = false;
+		boolean salir=false;
+		Entys auxiliar1 = null;
+		Entys auxiliar2 = null;
+		viajero.setBodega(true);
+
+		if(bodega[0] == null){
+			bodega[0]=viajero;
+		}
+		else{			
+			for(int i = 0 ; i<bodega.length && !salir ; i++ ){
+				if(hueco_encontrado){
+					if(bodega[i]==null){
+						bodega[i] = auxiliar1;
+						salir = true;
+					}
+					else{
+						auxiliar2 = auxiliar1;
+						auxiliar1 = bodega[i];
+						bodega[i] = auxiliar2; 
+					}
+				}
+				else{
+					if(bodega[i] == null){
+					    hueco_encontrado=true;
+					    bodega[i] = viajero;					    
+					    salir = true;
+					}
+					else{
+						if(bodega[i].getDimension() > viajero.getDimension()){
+						  hueco_encontrado=true;
+						  auxiliar1 = bodega[i];
+						  bodega[i] = viajero;
+						}
+						else{
+							if(bodega[i].getDimension() == viajero.getDimension()){
+							    hueco_encontrado = true;
+							    auxiliar1 = viajero;								
+
+							}
+						}
+					}
+				
+				}
+			}
+		}
+    }
+// Se desembarcan los Entys que habian a bordo.Se inicializa bodega a null.
+    public Entys[] Desembarcar(){
+        Entys [] viajeros = new Entys[Conteo()];    
+        int aux = 0;
+        for(int i=0 ; i<bodega.length ; i++){
+            if(bodega[i] != null){
+                bodega[i].setBodega(false);
+		viajeros[aux] = bodega[i];
+                aux++;
+		bodega[i] = null;
+            }
+            
+        }
+        return viajeros;
+    }
+// Se fija la variable lapso
+    public void setLapso(double lps){
+        if(lps>=0){
+            lapso=lps;
+        }
+    }
+// Se devuelve la variable lapso
+    public double getLapso(){
+        return lapso;
+    }
+// Devuelve los huecos que hay libres aun en la bodega
+    public int getHuecos(){
+        int res = 0;
+        
+        for(int i=0; i<bodega.length; i++){
+            if(bodega[i] == null){
+               res += 1;
+            }
+        }
+        return res;          
+    }
+// Devuelve la suma del peso total que hay en la bodega
+    public double getPeso(){
+        double res = 0;
+        
+        for(int i=0; i<bodega.length; i++){
+            if(bodega[i] != null){
+               res = res + bodega[i].getPeso();
+            }
+        }
+        return res;
+    }
+// Cambia la variable plasma.
+    public boolean Repostar(double plsm){
+      
+        if(plsm>=0){
+            plasma+=plsm;
+            return true;
+        }
+        return false;
+        
+    }
+// Mira si se puede hacer un viaje en funcion de la distancia y el combustible
+    public boolean Viabilidad(double dist){
+        
+        if(lapso==0){
+            return true;
+        }
+        
+        int res = (int)(dist/lapso);
+        
+        if(res<plasma){
+            return true;
+        }
+        
+        return false;
+    }
+    public int Conteo(){
+       return capacidad-getHuecos();
+    }
+  
+
+
+
+
+
+
+public void getbodega(){
+		int h=0;
+		System.out.println("");
+		System.out.println("****ORDEN****");
+		for(h=0;h<Conteo();h++){
+			
+			System.out.println(bodega[h].Identificar()+" - - "+bodega[h].getDimension());
+		}
+		System.out.println("*************");
+	}
+	
+	public double getcarga(){
+		return carga;
+	}
+	
+	public int getcapacidad(){
+		return capacidad;
+	}
+        public double getplasma(){
+		return plasma;
+	}
+
+
+
+
+
+
+
+
+
+
+
+}

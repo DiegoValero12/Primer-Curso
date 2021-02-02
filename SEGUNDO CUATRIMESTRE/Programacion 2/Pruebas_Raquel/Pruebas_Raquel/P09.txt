@@ -1,0 +1,35 @@
+Plantada: true
+Plantada: true
+Plantada: true
+Plantada: true
+Plantada: true
+
+[ 0 ] : null null null null peral peral 
+
+[ 1 ] : null null null null nogal nogal 
+
+[ 2 ] : null null null null null manzano 
+Abona nogal: 2
+Abona nogal: 2
+Abona nogal: 2
+Abona nogal: 2
+Abona peral: 2
+Abona peral: 2
+Abona manzano: 1
+Abona manzano: 1
+Abona peral: 2
+Abona peral: 2
+Abona manzano: 1
+Abona manzano: 1
+Abona peral: 2
+Abona peral: 2
+Abona manzano: 1
+Abona manzano: 1
+Planta arrancada1: null
+Planta arrancada2: null
+Planta arrancada3: nogal
+Planta arrancada4: nogal
+Abonar arrancada1: null
+Abonar arrancada2: null
+Abonar arrancada3: false
+Abonar arrancada4: false

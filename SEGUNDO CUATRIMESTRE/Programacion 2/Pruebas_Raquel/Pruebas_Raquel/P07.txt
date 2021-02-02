@@ -1,0 +1,16 @@
+Plantada: true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+true
+Fruto: pitaya Estado: comestible Peso: 0.8
+Fruto: pitaya Estado: comestible Peso: 1.6
+Fruto: pitaya Estado: comestible Peso: 2.4000000000000004
+Fruto: pitaya Estado: comestible Peso: 3.2
+Fruto: pitaya Estado: comestible Peso: 4.0

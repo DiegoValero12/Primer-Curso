@@ -1,0 +1,24 @@
+true
+ inmaduro pera 0.2 2.0 -1.0
+semilla
+germinado
+brote
+adulta
+[LFruto;@6bc7c054
+pera
+null
+null
+[LFruto;@6bc7c054
+abonamos
+0 pera comestible 58.2 1 pera comestible 80.0 2 pera comestible 69.0 3 pera comestible 44.2 4 pera inmaduro 0.0 pera 44.2
+pera 58.2
+pera 69.0
+pera 80.0
+0 1 2 3 4 pera inmaduro adulta
+adulta [LFruto;@232204a1 [[LPlanta;@4aa298b7
+0 2 Planta@7d4991ad
+1 2 Planta@28d93b30
+2 2 Planta@1b6d3586
+[Huerta@4554617c, Huerta@74a14482]
+Huerta@4554617c
+[Fruto@1540e19d]

@@ -1,0 +1,563 @@
+Se planta a1 : true
+Se planta b2 : true
+Se planta a3 : true
+Se planta b4 : true
+Se planta b5 : true
+Se planta b6 : true
+Otea b7 : true
+
+
+
+---------  Inicio ----------------
+
+
+Huerta 1: 
+c - b 
+b b b 
+- a a 
+Cuidador: null
+Estado de la finca
+[0,0]
+Trifido: true
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: g
+Num. max: 7
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+pos. 6 -> 
+[0,1]
+[0,2]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: f
+Num. max: 6
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+[1,0]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: e
+Num. max: 5
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+[1,1]
+Trifido: true
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: d
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: b
+Num. max: 2
+pos. 0 -> 
+pos. 1 -> 
+[2,0]
+[2,1]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: c
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[2,2]
+Trifido: true
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 1
+pos. 0 -> 
+
+Huerta 2: 
+- - - 
+- - - 
+- - - 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+
+
+---------  Sin ningun cuidador ----------------
+
+
+Huerta 1: 
+c - b 
+b b b 
+- a a 
+Cuidador: null
+Estado de la finca
+[0,0]
+Trifido: true
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: g
+Num. max: 7
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+pos. 6 -> 
+[0,1]
+[0,2]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: f
+Num. max: 6
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+[1,0]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: e
+Num. max: 5
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+[1,1]
+Trifido: true
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: d
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: b
+Num. max: 2
+pos. 0 -> 
+pos. 1 -> 
+[2,0]
+[2,1]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: c
+Num. max: 3
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+[2,2]
+Trifido: true
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 1
+pos. 0 -> 
+
+Huerta 2: 
+- - - 
+- - - 
+- - - 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+
+
+---------  Despues de abonar() el Trifido 1 ----------------
+
+
+Huerta 1: 
+c - b 
+b b - 
+- - a 
+Cuidador Persona: Jonathan
+Estado de la finca
+[0,0]
+Trifido: true
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: g
+Num. max: 7
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+pos. 6 -> 
+[0,1]
+[0,2]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: f
+Num. max: 6
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+[1,0]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: e
+Num. max: 5
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+[1,1]
+Trifido: true
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: d
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+Trifido: true
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 1
+pos. 0 -> nombre: pitaya; peso: 0.000; estado: inmaduro
+
+Huerta 2: 
+- - - 
+- - - 
+- - - 
+Cuidador Persona: Dio
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+
+
+---------  Despues de abonar(int n) el Trifido 1  ----------------
+
+
+Huerta 1: 
+c - b 
+b b - 
+- - a 
+Cuidador Zombie: Jonathan
+Estado de la finca
+[0,0]
+Trifido: true
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: g
+Num. max: 7
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+pos. 6 -> 
+[0,1]
+[0,2]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: f
+Num. max: 6
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+[1,0]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: e
+Num. max: 5
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+[1,1]
+Trifido: true
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: d
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+Trifido: true
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 1
+pos. 0 -> nombre: pitaya; peso: 2.000; estado: comestible
+
+Huerta 2: 
+- - - 
+- - - 
+- - - 
+Cuidador Persona: Dio
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+
+
+--------- Ahora la h1 tiene cuidador y p4 se ha comido plantas. Se abona(int n)  ----------------
+
+
+Huerta 1: 
+c - - 
+- b - 
+- - a 
+Cuidador Zombie: Jonathan
+Estado de la finca
+[0,0]
+Trifido: true
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: g
+Num. max: 7
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+pos. 6 -> 
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+Trifido: true
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: d
+Num. max: 4
+pos. 0 -> nombre: pitaya; peso: 2.000; estado: comestible
+pos. 1 -> nombre: pitaya; peso: 0.000; estado: inmaduro
+pos. 2 -> nombre: pitaya; peso: 0.000; estado: inmaduro
+pos. 3 -> 
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+Trifido: true
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 1
+pos. 0 -> nombre: pitaya; peso: 2.000; estado: comestible
+
+Huerta 2: 
+- - - 
+- - - 
+- - - 
+Cuidador Persona: Dio
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+
+
+--------- Recolecta en h1  ----------------
+
+
+Huerta 1: 
+c - - 
+- - - 
+- - a 
+Cuidador Zombie: Jonathan
+Estado de la finca
+[0,0]
+Trifido: true
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: g
+Num. max: 7
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+pos. 6 -> 
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+Trifido: true
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 1
+pos. 0 -> nombre: pitaya; peso: 2.000; estado: comestible
+
+Huerta 2: 
+b - - 
+- - - 
+- - - 
+Cuidador Persona: Dio
+Estado de la finca
+[0,0]
+Trifido: true
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: d
+Num. max: 4
+pos. 0 -> nombre: pitaya; peso: 2.000; estado: comestible
+pos. 1 -> nombre: pitaya; peso: 0.000; estado: inmaduro
+pos. 2 -> nombre: pitaya; peso: 0.000; estado: inmaduro
+pos. 3 -> 
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+
+
+--------- Arranca en h2  ----------------
+
+
+Huerta 1: 
+c - - 
+- - - 
+- - a 
+Cuidador Zombie: Jonathan
+Estado de la finca
+[0,0]
+Trifido: true
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: g
+Num. max: 7
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+pos. 4 -> 
+pos. 5 -> 
+pos. 6 -> 
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+Trifido: true
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 1
+pos. 0 -> nombre: pitaya; peso: 2.000; estado: comestible
+
+Huerta 2: 
+b - - 
+- - - 
+- - - 
+Cuidador Zombie: Dio
+Estado de la finca
+[0,0]
+Trifido: true
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: d
+Num. max: 4
+pos. 0 -> nombre: pitaya; peso: 2.000; estado: comestible
+pos. 1 -> nombre: pitaya; peso: 0.000; estado: inmaduro
+pos. 2 -> nombre: pitaya; peso: 0.000; estado: inmaduro
+pos. 3 -> 
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+[2,0]
+[2,1]
+[2,2]

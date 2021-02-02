@@ -1,0 +1,206 @@
+Vamos a jugar farming Simulator 2.0
+
+Primero vamos a crear nuestra clasificación de valores: 
+Creación 1 : true
+Creación 1 : true
+Creación 1 : true
+Creación 1 : true
+Creación 1 : true
+
+Revisemos nuestra clasificación ;)
+Nombre : fresa Valor calórico : 0.6
+Nombre : piña Valor calórico : 1.2
+Nombre : kiwi Valor calórico : 0.4
+Nombre : higo Valor calórico : 0.5
+Nombre : mango maracatón Valor calórico : 1.3
+
+Esto no sería farming Simulator sin nuestras huertas....
+¡HUERTAS CREADAS! Ahora necesitamos gente que nos las cuide
+
+Esta es la gente que hemos contratado: 
+Cuidador 1 : David
+Cuidador 2 : Alicia
+Cuidador 3 : Rodro
+
+Ahora asignémosles una huerta: 
+David como está to' fuerte lo pondremos a cuidar la huerta grande
+Rodro es un poco vago cuando quiere, así que lo pondremos a cuidar la huerta pequeña
+
+Una huerta no puede cuidarse decentemente si no tiene un lugar donde estar, así que vamos a ponerlas en algún sitio....
+Ya las hemos colocado, comprobemos dónde está cada una: 
+Localización de la huerta Grande : Coordenada@7852e922
+Localización de la huerta Mediana : Coordenada@4e25154f
+Localización de la huerta Pequeña : Coordenada@70dea4e
+
+OH NO!! ALICIA NO TIENE HUERTA! BUSQUEMOS UNA HUERTA PARA ELLA!
+Le hemos asignado una huerta situada en : Coordenada@4e25154f
+
+Ahora veamos quién cuida cada huerta : 
+Cuidador de la huerta grande : David
+Cuidador de la huerta mediana : Alicia
+Cuidador de la huerta pequeña : Rodro
+
+Ya tenemos nuestras huertas con unos buenos cuidadores, pero necesitamos algunas plantas...
+Hemos conseguido algunas plantas! Pongámoslas en alguna huerta!
+
+David planta actinida1 en su huerta : true
+David planta actinida2 en su huerta : true
+David planta actinida3 en su huerta : true
+Alicia planta fragaria1 en su huerta : true
+Alicia planta fragaria2 en su huerta : true
+Rodro planta higuera1 en su huerta : true
+Rodro planta fragaria3 en su huerta : true
+Rodro planta fragaria4 en su huerta : true
+Rodro planta mangifera en su huerta : false NO SE PUEDE PLANTAR!!
+Ya tenemos alguna planta en nuestras huertas, ES HORA DE ABONARLAS
+Actínidas abonadas en la huerta de David : 3
+Fragarias abonadas en la huerta de Alicia : 2
+Higueras abonadas en la huerta de Rodro : 1
+Fragarias abonadas en la huerta de Rodro : 2
+
+Ahora las iremos abonando y comprobando sus estados
+Actínida 1 : germinado
+Actínida 2 : germinado
+Actínida 3 : germinado
+Fragaria 1 : germinado
+Fragaria 2 : germinado
+Fragaria 3 : germinado
+Fragaria 4 : germinado
+Higuera : germinado
+
+Actínida 1 : brote
+Actínida 2 : brote
+Actínida 3 : brote
+Fragaria 1 : brote
+Fragaria 2 : brote
+Fragaria 3 : brote
+Fragaria 4 : brote
+Higuera : brote
+
+Actínida 1 : adulta
+Actínida 2 : adulta
+Actínida 3 : adulta
+Fragaria 1 : adulta
+Fragaria 2 : adulta
+Fragaria 3 : adulta
+Fragaria 4 : adulta
+Higuera : adulta
+
+Ahora que son adultas vamos a ir abonándolas y comprobando sus frutos
+
+**HUERTO GRANDE : 
+actinida
+Fruto 0 Nombre : kiwi Peso : 0.0 Estado : inmaduro
+actinida
+Fruto 0 Nombre : kiwi Peso : 0.0 Estado : inmaduro
+actinida
+Fruto 0 Nombre : kiwi Peso : 0.0 Estado : inmaduro
+
+**HUERTO MEDIANO : 
+fragaria
+Fruto 0 Nombre : fresa Peso : 0.0 Estado : inmaduro
+fragaria
+Fruto 0 Nombre : fresa Peso : 0.0 Estado : inmaduro
+
+**HUERTO PEQUEÑO : 
+fragaria
+Fruto 0 Nombre : fresa Peso : 0.0 Estado : inmaduro
+fragaria
+Fruto 0 Nombre : fresa Peso : 0.0 Estado : inmaduro
+higuera
+
+ VOLVEMOS A ABONAR !!!
+
+**HUERTO GRANDE : 
+actinida
+Fruto 0 Nombre : kiwi Peso : 2.6 Estado : comestible
+Fruto 1 Nombre : kiwi Peso : 0.0 Estado : inmaduro
+actinida
+Fruto 0 Nombre : kiwi Peso : 2.6 Estado : comestible
+Fruto 1 Nombre : kiwi Peso : 0.0 Estado : inmaduro
+actinida
+Fruto 0 Nombre : kiwi Peso : 2.6 Estado : comestible
+Fruto 1 Nombre : kiwi Peso : 0.0 Estado : inmaduro
+
+**HUERTO MEDIANO : 
+fragaria
+Fruto 0 Nombre : fresa Peso : 4.0 Estado : comestible
+Fruto 1 Nombre : fresa Peso : 0.0 Estado : inmaduro
+fragaria
+Fruto 0 Nombre : fresa Peso : 4.0 Estado : comestible
+Fruto 1 Nombre : fresa Peso : 0.0 Estado : inmaduro
+
+**HUERTO PEQUEÑO : 
+fragaria
+Fruto 0 Nombre : fresa Peso : 3.0 Estado : comestible
+Fruto 1 Nombre : fresa Peso : 0.0 Estado : inmaduro
+fragaria
+Fruto 0 Nombre : fresa Peso : 3.0 Estado : comestible
+Fruto 1 Nombre : fresa Peso : 0.0 Estado : inmaduro
+higuera
+
+ VOLVEMOS A ABONAR !!!
+
+**HUERTO GRANDE : 
+actinida
+Fruto 0 Nombre : kiwi Peso : 5.2 Estado : comestible
+Fruto 1 Nombre : kiwi Peso : 2.6 Estado : comestible
+Fruto 2 Nombre : kiwi Peso : 0.0 Estado : inmaduro
+actinida
+Fruto 0 Nombre : kiwi Peso : 5.2 Estado : comestible
+Fruto 1 Nombre : kiwi Peso : 2.6 Estado : comestible
+Fruto 2 Nombre : kiwi Peso : 0.0 Estado : inmaduro
+actinida
+Fruto 0 Nombre : kiwi Peso : 5.2 Estado : comestible
+Fruto 1 Nombre : kiwi Peso : 2.6 Estado : comestible
+Fruto 2 Nombre : kiwi Peso : 0.0 Estado : inmaduro
+
+**HUERTO MEDIANO : 
+fragaria
+Fruto 0 Nombre : fresa Peso : 8.0 Estado : comestible
+Fruto 1 Nombre : fresa Peso : 4.0 Estado : comestible
+Fruto 2 Nombre : fresa Peso : 0.0 Estado : inmaduro
+fragaria
+Fruto 0 Nombre : fresa Peso : 8.0 Estado : comestible
+Fruto 1 Nombre : fresa Peso : 4.0 Estado : comestible
+Fruto 2 Nombre : fresa Peso : 0.0 Estado : inmaduro
+
+**HUERTO PEQUEÑO : 
+fragaria
+Fruto 0 Nombre : fresa Peso : 6.0 Estado : comestible
+Fruto 1 Nombre : fresa Peso : 3.0 Estado : comestible
+Fruto 2 Nombre : fresa Peso : 0.0 Estado : inmaduro
+fragaria
+Fruto 0 Nombre : fresa Peso : 6.0 Estado : comestible
+Fruto 1 Nombre : fresa Peso : 3.0 Estado : comestible
+Fruto 2 Nombre : fresa Peso : 0.0 Estado : inmaduro
+higuera
+
+Somos unos magníficos videojugadores de farming Simulator 2.0
+
+Rodro ha recibido un encargo!! TIENE QUE PLANTAR UNA MANGIFERA PERO SE HA DORMIDO!!!
+David tendrá que ir a hacer el encargo, pero no sabe cuánta distancia hay de su huerta hasta la de Rodro, vamos a calcularla : 
+Distancia entre la huerta de David y la de Rodro : 236,59m
+David ha llegado a la huerta de Rodro, pero no hay sitio para plantar, así que despierta a Rodro y le dice que arranque una planta que no tenga frutos
+Rodro arranca las plantas sin frutos (malas hierbas)
+
+Plantas arrancadas : 
+higuera
+
+Ahora que hemos arrancado la planta David puede plantar la otra
+David planta la mangifera en la huerta de Rodro : true
+David vuelve a su huerta
+Alicia se ha dado una vuelta por su huerto y ha visto que hay algunas fresas que parece que ya están maduras así que va a recolectarlas
+
+Vamos a ver qué frutos ha conseguido recolectar el npc Alicia
+Nombre : fresa0    Peso : 4.0
+Nombre : fresa1    Peso : 8.0
+Nombre : fresa2    Peso : 4.0
+Nombre : fresa3    Peso : 8.0
+
+David quiere saber qué plantas de su huerta son adultas
+Plantas adultas del huerto de David
+Nombre : actinida
+
+GUARDANDO PARTIDA...
+SALIENDO AL ESCRITORIO...

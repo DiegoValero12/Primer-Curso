@@ -1,0 +1,15 @@
+false IGUALES COORDENADA FALSE
+-1.0 DISTANCIA COORDENADA -1.0
+-1.0 -1.0
+-1.0 -1.0
+MALO pitaya PITAYA 0.0 0 inmaduro INMADURO 
+MALO2 pitaya PITAYA 0.0 0 inmaduro INMADURO 
+0.0 PESO 0
+0.0 PESO 0
+2.0 PESO 2
+PlantaMala1 vegetal VEGETAL kiwi KIWI 3 3
+PlantaMala1 actinida ACTINIDA pitaya pitaya 4 4
+PlantaMala1 planta PLANTA piña PIÑA 1 1
+2 2
+null
+John Doe JOHN DOE Farravid FARRAVID

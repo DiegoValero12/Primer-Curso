@@ -1,0 +1,4598 @@
+
+
+--------------------- A lo loco ------------------------
+
+
+Huertas localizadas: 8
+Plantas: 33
+La persona p1 planta t: true
+La persona p1 planta a: true
+La persona p1 planta b: true
+La persona p1 planta a: true
+La persona p1 planta t: true
+La persona p2 planta a: true
+La persona p2 planta c: true
+La persona p2 planta a: true
+La persona p2 planta b: true
+La persona p2 planta t: false
+La persona p3 planta c: true
+La persona p3 planta a: true
+La persona p3 planta t: true
+La persona p3 planta a: true
+La persona p3 planta t: true
+La persona p4 planta b: true
+La persona p4 planta b: true
+La persona p4 planta a: true
+La persona p4 planta c: true
+La persona p4 planta t: false
+La persona p5 planta c: true
+La persona p5 planta a: true
+La persona p5 planta d: true
+La persona p5 planta b: false
+La persona p5 planta t: false
+La persona p6 planta a: true
+La persona p6 planta t: true
+La persona p6 planta a: true
+La persona p6 planta a: true
+La persona p6 planta t: true
+La persona p7 planta a: true
+La persona p7 planta b: true
+La persona p7 planta t: true
+
+
+--------------------- Se plantan cosas ------------------------
+
+
+-------------------------------
+1. Huerta : 
+- - b 
+- - c 
+- a a 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: c
+Estado: semilla
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+2. Huerta : 
+- - b 
+- a a 
+- t t 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+Trifido: true
+Posicion:  (2,1)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: true
+Posicion:  (2,2)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+3. Huerta : 
+- t t 
+- a a 
+- - c 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+Trifido: true
+Posicion:  (0,1)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[0,2]
+Trifido: true
+Posicion:  (0,2)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: c
+Estado: semilla
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+4. Huerta : 
+- - c 
+- - a 
+- b b 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: c
+Estado: semilla
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+5. Huerta : 
+- - d 
+- - a 
+- - c 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: d
+Estado: semilla
+Nombre de sus frutos: d
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: c
+Estado: semilla
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+6. Huerta : 
+- - - 
+- t t 
+a a a 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+Trifido: false
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,1]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+7. Huerta : 
+- - t 
+- - b 
+- - a 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: true
+Posicion:  (0,2)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+8. Huerta : 
+- - - 
+- - - 
+- - - 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+
+
+--------------------- Los trifidos otean ------------------------
+
+
+9. Trifido otea: true
+19. Trifido otea: true
+24. Trifido otea: true
+26. Trifido otea: true
+29. Trifido otea: true
+
+-------------------------------
+1. Huerta : 
+t t b 
+t t c 
+t a a 
+Cuidador: null
+Estado de la finca
+[0,0]
+Trifido: true
+Posicion:  (0,0)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[0,1]
+Trifido: true
+Posicion:  (0,1)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[0,2]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+Trifido: true
+Posicion:  (1,0)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,1]
+Trifido: true
+Posicion:  (1,1)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: c
+Estado: semilla
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+Trifido: true
+Posicion:  (2,0)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,1]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+2. Huerta : 
+- - b 
+- a a 
+- t t 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+Trifido: true
+Posicion:  (2,1)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: true
+Posicion:  (2,2)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+3. Huerta : 
+- t t 
+- a a 
+- - c 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+Trifido: true
+Posicion:  (0,1)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[0,2]
+Trifido: true
+Posicion:  (0,2)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: c
+Estado: semilla
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+4. Huerta : 
+- - c 
+- - a 
+- b b 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: c
+Estado: semilla
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+5. Huerta : 
+- - d 
+- - a 
+- - c 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: d
+Estado: semilla
+Nombre de sus frutos: d
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: c
+Estado: semilla
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+6. Huerta : 
+- - - 
+- t t 
+a a a 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+Trifido: false
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,1]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+7. Huerta : 
+- - t 
+- - b 
+- - a 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: true
+Posicion:  (0,2)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+8. Huerta : 
+- - - 
+- - - 
+- - - 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+
+
+--------------------- Vox se alza con el poder y las zonas rurales se repoblan (paseo()) ------------------------
+
+
+La persona p1 pasea y su huerta es: true
+La persona p2 pasea y su huerta es: true
+La persona p3 pasea y su huerta es: true
+La persona p4 pasea y su huerta es: true
+La persona p5 pasea y su huerta es: true
+La persona p6 pasea y su huerta es: true
+La persona p7 pasea y su huerta es: true
+-------------------------------
+1. Huerta : 
+t t b 
+t t c 
+t a a 
+Cuidador Persona: p1
+Estado de la finca
+[0,0]
+Trifido: true
+Posicion:  (0,0)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[0,1]
+Trifido: true
+Posicion:  (0,1)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[0,2]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+Trifido: true
+Posicion:  (1,0)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,1]
+Trifido: true
+Posicion:  (1,1)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: c
+Estado: semilla
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+Trifido: true
+Posicion:  (2,0)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,1]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+2. Huerta : 
+- - b 
+- a a 
+- t t 
+Cuidador Inmune: p2
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+Trifido: true
+Posicion:  (2,1)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: true
+Posicion:  (2,2)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+3. Huerta : 
+- t t 
+- a a 
+- - c 
+Cuidador Persona: p3
+Estado de la finca
+[0,0]
+[0,1]
+Trifido: true
+Posicion:  (0,1)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[0,2]
+Trifido: true
+Posicion:  (0,2)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: c
+Estado: semilla
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+4. Huerta : 
+- - c 
+- - a 
+- b b 
+Cuidador Persona: p4
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: c
+Estado: semilla
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+5. Huerta : 
+- - d 
+- - a 
+- - c 
+Cuidador Persona: p5
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: d
+Estado: semilla
+Nombre de sus frutos: d
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: c
+Estado: semilla
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+6. Huerta : 
+- - - 
+- t t 
+a a a 
+Cuidador Inmune: p6
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+Trifido: false
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,1]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+7. Huerta : 
+- - t 
+- - b 
+- - a 
+Cuidador Persona: p7
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: true
+Posicion:  (0,2)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: a
+Estado: semilla
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+8. Huerta : 
+- - - 
+- - - 
+- - - 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+
+
+
+--------------------- Los votantes de Vox necesitan alimentar a las plantas ------------------------
+
+
+
+RONDA 1
+La persona p1 abona 2 plantas de tipo 'a'
+La persona p1 abona 1 plantas de tipo 'b'
+La persona p1 abona 1 plantas de tipo 'c'
+La persona p1 abona 0 plantas de tipo 'd'
+La persona p1 abona 5 plantas de tipo 't'
+La persona p2 abona 2 plantas de tipo 'a'
+La persona p2 abona 1 plantas de tipo 'b'
+La persona p2 abona 0 plantas de tipo 'c'
+La persona p2 abona 0 plantas de tipo 'd'
+La persona p2 abona 2 plantas de tipo 't'
+La persona p3 abona 2 plantas de tipo 'a'
+La persona p3 abona 0 plantas de tipo 'b'
+La persona p3 abona 1 plantas de tipo 'c'
+La persona p3 abona 0 plantas de tipo 'd'
+La persona p3 abona 2 plantas de tipo 't'
+La persona p4 abona 1 plantas de tipo 'a'
+La persona p4 abona 2 plantas de tipo 'b'
+La persona p4 abona 1 plantas de tipo 'c'
+La persona p4 abona 0 plantas de tipo 'd'
+La persona p4 abona 0 plantas de tipo 't'
+La persona p5 abona 1 plantas de tipo 'a'
+La persona p5 abona 0 plantas de tipo 'b'
+La persona p5 abona 1 plantas de tipo 'c'
+La persona p5 abona 1 plantas de tipo 'd'
+La persona p5 abona 0 plantas de tipo 't'
+La persona p6 abona 3 plantas de tipo 'a'
+La persona p6 abona 0 plantas de tipo 'b'
+La persona p6 abona 0 plantas de tipo 'c'
+La persona p6 abona 0 plantas de tipo 'd'
+La persona p6 abona 2 plantas de tipo 't'
+La persona p7 abona 1 plantas de tipo 'a'
+La persona p7 abona 1 plantas de tipo 'b'
+La persona p7 abona 0 plantas de tipo 'c'
+La persona p7 abona 0 plantas de tipo 'd'
+La persona p7 abona 1 plantas de tipo 't'
+
+RONDA 2
+La persona p1 abona 5 plantas de tipo 'a'
+La persona p1 abona 5 plantas de tipo 'b'
+La persona p1 abona 5 plantas de tipo 'c'
+La persona p1 abona 5 plantas de tipo 'd'
+La persona p1 abona 5 plantas de tipo 't'
+La persona p2 abona 2 plantas de tipo 'a'
+La persona p2 abona 1 plantas de tipo 'b'
+La persona p2 abona 0 plantas de tipo 'c'
+La persona p2 abona 0 plantas de tipo 'd'
+La persona p2 abona 2 plantas de tipo 't'
+La persona p3 abona 2 plantas de tipo 'a'
+La persona p3 abona 2 plantas de tipo 'b'
+La persona p3 abona 2 plantas de tipo 'c'
+La persona p3 abona 2 plantas de tipo 'd'
+La persona p3 abona 2 plantas de tipo 't'
+La persona p4 abona 1 plantas de tipo 'a'
+La persona p4 abona 2 plantas de tipo 'b'
+La persona p4 abona 1 plantas de tipo 'c'
+La persona p4 abona 0 plantas de tipo 'd'
+La persona p4 abona 0 plantas de tipo 't'
+La persona p5 abona 1 plantas de tipo 'a'
+La persona p5 abona 0 plantas de tipo 'b'
+La persona p5 abona 1 plantas de tipo 'c'
+La persona p5 abona 1 plantas de tipo 'd'
+La persona p5 abona 0 plantas de tipo 't'
+La persona p6 abona 3 plantas de tipo 'a'
+La persona p6 abona 0 plantas de tipo 'b'
+La persona p6 abona 0 plantas de tipo 'c'
+La persona p6 abona 0 plantas de tipo 'd'
+La persona p6 abona 2 plantas de tipo 't'
+La persona p7 abona 1 plantas de tipo 'a'
+La persona p7 abona 1 plantas de tipo 'b'
+La persona p7 abona 1 plantas de tipo 'c'
+La persona p7 abona 1 plantas de tipo 'd'
+La persona p7 abona 1 plantas de tipo 't'
+
+RONDA 3
+La persona p1 abona 5 plantas de tipo 'a'
+La persona p1 abona 5 plantas de tipo 'b'
+La persona p1 abona 5 plantas de tipo 'c'
+La persona p1 abona 5 plantas de tipo 'd'
+La persona p1 abona 5 plantas de tipo 't'
+La persona p2 abona 2 plantas de tipo 'a'
+La persona p2 abona 1 plantas de tipo 'b'
+La persona p2 abona 0 plantas de tipo 'c'
+La persona p2 abona 0 plantas de tipo 'd'
+La persona p2 abona 2 plantas de tipo 't'
+La persona p3 abona 2 plantas de tipo 'a'
+La persona p3 abona 2 plantas de tipo 'b'
+La persona p3 abona 2 plantas de tipo 'c'
+La persona p3 abona 2 plantas de tipo 'd'
+La persona p3 abona 2 plantas de tipo 't'
+La persona p4 abona 1 plantas de tipo 'a'
+La persona p4 abona 2 plantas de tipo 'b'
+La persona p4 abona 1 plantas de tipo 'c'
+La persona p4 abona 0 plantas de tipo 'd'
+La persona p4 abona 0 plantas de tipo 't'
+La persona p5 abona 1 plantas de tipo 'a'
+La persona p5 abona 0 plantas de tipo 'b'
+La persona p5 abona 1 plantas de tipo 'c'
+La persona p5 abona 1 plantas de tipo 'd'
+La persona p5 abona 0 plantas de tipo 't'
+La persona p6 abona 3 plantas de tipo 'a'
+La persona p6 abona 0 plantas de tipo 'b'
+La persona p6 abona 0 plantas de tipo 'c'
+La persona p6 abona 0 plantas de tipo 'd'
+La persona p6 abona 2 plantas de tipo 't'
+La persona p7 abona 1 plantas de tipo 'a'
+La persona p7 abona 1 plantas de tipo 'b'
+La persona p7 abona 1 plantas de tipo 'c'
+La persona p7 abona 1 plantas de tipo 'd'
+La persona p7 abona 1 plantas de tipo 't'
+
+RONDA 4
+La persona p1 abona 5 plantas de tipo 'a'
+La persona p1 abona 5 plantas de tipo 'b'
+La persona p1 abona 5 plantas de tipo 'c'
+La persona p1 abona 5 plantas de tipo 'd'
+La persona p1 abona 5 plantas de tipo 't'
+La persona p2 abona 2 plantas de tipo 'a'
+La persona p2 abona 1 plantas de tipo 'b'
+La persona p2 abona 0 plantas de tipo 'c'
+La persona p2 abona 0 plantas de tipo 'd'
+La persona p2 abona 2 plantas de tipo 't'
+La persona p3 abona 2 plantas de tipo 'a'
+La persona p3 abona 2 plantas de tipo 'b'
+La persona p3 abona 2 plantas de tipo 'c'
+La persona p3 abona 2 plantas de tipo 'd'
+La persona p3 abona 2 plantas de tipo 't'
+La persona p4 abona 1 plantas de tipo 'a'
+La persona p4 abona 2 plantas de tipo 'b'
+La persona p4 abona 1 plantas de tipo 'c'
+La persona p4 abona 0 plantas de tipo 'd'
+La persona p4 abona 0 plantas de tipo 't'
+La persona p5 abona 1 plantas de tipo 'a'
+La persona p5 abona 0 plantas de tipo 'b'
+La persona p5 abona 1 plantas de tipo 'c'
+La persona p5 abona 1 plantas de tipo 'd'
+La persona p5 abona 0 plantas de tipo 't'
+La persona p6 abona 3 plantas de tipo 'a'
+La persona p6 abona 0 plantas de tipo 'b'
+La persona p6 abona 0 plantas de tipo 'c'
+La persona p6 abona 0 plantas de tipo 'd'
+La persona p6 abona 2 plantas de tipo 't'
+La persona p7 abona 1 plantas de tipo 'a'
+La persona p7 abona 1 plantas de tipo 'b'
+La persona p7 abona 1 plantas de tipo 'c'
+La persona p7 abona 1 plantas de tipo 'd'
+La persona p7 abona 1 plantas de tipo 't'
+
+RONDA 5
+La persona p1 abona 5 plantas de tipo 'a'
+La persona p1 abona 5 plantas de tipo 'b'
+La persona p1 abona 5 plantas de tipo 'c'
+La persona p1 abona 5 plantas de tipo 'd'
+La persona p1 abona 5 plantas de tipo 't'
+La persona p2 abona 2 plantas de tipo 'a'
+La persona p2 abona 1 plantas de tipo 'b'
+La persona p2 abona 0 plantas de tipo 'c'
+La persona p2 abona 0 plantas de tipo 'd'
+La persona p2 abona 2 plantas de tipo 't'
+La persona p3 abona 2 plantas de tipo 'a'
+La persona p3 abona 2 plantas de tipo 'b'
+La persona p3 abona 2 plantas de tipo 'c'
+La persona p3 abona 2 plantas de tipo 'd'
+La persona p3 abona 2 plantas de tipo 't'
+La persona p4 abona 1 plantas de tipo 'a'
+La persona p4 abona 2 plantas de tipo 'b'
+La persona p4 abona 1 plantas de tipo 'c'
+La persona p4 abona 0 plantas de tipo 'd'
+La persona p4 abona 0 plantas de tipo 't'
+La persona p5 abona 1 plantas de tipo 'a'
+La persona p5 abona 0 plantas de tipo 'b'
+La persona p5 abona 1 plantas de tipo 'c'
+La persona p5 abona 1 plantas de tipo 'd'
+La persona p5 abona 0 plantas de tipo 't'
+La persona p6 abona 3 plantas de tipo 'a'
+La persona p6 abona 0 plantas de tipo 'b'
+La persona p6 abona 0 plantas de tipo 'c'
+La persona p6 abona 0 plantas de tipo 'd'
+La persona p6 abona 2 plantas de tipo 't'
+La persona p7 abona 1 plantas de tipo 'a'
+La persona p7 abona 1 plantas de tipo 'b'
+La persona p7 abona 1 plantas de tipo 'c'
+La persona p7 abona 1 plantas de tipo 'd'
+La persona p7 abona 1 plantas de tipo 't'
+
+RONDA 6
+La persona p1 abona 5 plantas de tipo 'a'
+La persona p1 abona 5 plantas de tipo 'b'
+La persona p1 abona 5 plantas de tipo 'c'
+La persona p1 abona 5 plantas de tipo 'd'
+La persona p1 abona 5 plantas de tipo 't'
+La persona p2 abona 2 plantas de tipo 'a'
+La persona p2 abona 1 plantas de tipo 'b'
+La persona p2 abona 0 plantas de tipo 'c'
+La persona p2 abona 0 plantas de tipo 'd'
+La persona p2 abona 2 plantas de tipo 't'
+La persona p3 abona 2 plantas de tipo 'a'
+La persona p3 abona 2 plantas de tipo 'b'
+La persona p3 abona 2 plantas de tipo 'c'
+La persona p3 abona 2 plantas de tipo 'd'
+La persona p3 abona 2 plantas de tipo 't'
+La persona p4 abona 1 plantas de tipo 'a'
+La persona p4 abona 2 plantas de tipo 'b'
+La persona p4 abona 1 plantas de tipo 'c'
+La persona p4 abona 0 plantas de tipo 'd'
+La persona p4 abona 0 plantas de tipo 't'
+La persona p5 abona 1 plantas de tipo 'a'
+La persona p5 abona 0 plantas de tipo 'b'
+La persona p5 abona 1 plantas de tipo 'c'
+La persona p5 abona 1 plantas de tipo 'd'
+La persona p5 abona 0 plantas de tipo 't'
+La persona p6 abona 3 plantas de tipo 'a'
+La persona p6 abona 0 plantas de tipo 'b'
+La persona p6 abona 0 plantas de tipo 'c'
+La persona p6 abona 0 plantas de tipo 'd'
+La persona p6 abona 2 plantas de tipo 't'
+La persona p7 abona 1 plantas de tipo 'a'
+La persona p7 abona 1 plantas de tipo 'b'
+La persona p7 abona 1 plantas de tipo 'c'
+La persona p7 abona 1 plantas de tipo 'd'
+La persona p7 abona 1 plantas de tipo 't'
+
+RONDA 7
+La persona p1 abona 5 plantas de tipo 'a'
+La persona p1 abona 5 plantas de tipo 'b'
+La persona p1 abona 5 plantas de tipo 'c'
+La persona p1 abona 5 plantas de tipo 'd'
+La persona p1 abona 5 plantas de tipo 't'
+La persona p2 abona 2 plantas de tipo 'a'
+La persona p2 abona 1 plantas de tipo 'b'
+La persona p2 abona 0 plantas de tipo 'c'
+La persona p2 abona 0 plantas de tipo 'd'
+La persona p2 abona 2 plantas de tipo 't'
+La persona p3 abona 2 plantas de tipo 'a'
+La persona p3 abona 2 plantas de tipo 'b'
+La persona p3 abona 2 plantas de tipo 'c'
+La persona p3 abona 2 plantas de tipo 'd'
+La persona p3 abona 2 plantas de tipo 't'
+La persona p4 abona 1 plantas de tipo 'a'
+La persona p4 abona 2 plantas de tipo 'b'
+La persona p4 abona 1 plantas de tipo 'c'
+La persona p4 abona 0 plantas de tipo 'd'
+La persona p4 abona 0 plantas de tipo 't'
+La persona p5 abona 1 plantas de tipo 'a'
+La persona p5 abona 0 plantas de tipo 'b'
+La persona p5 abona 1 plantas de tipo 'c'
+La persona p5 abona 1 plantas de tipo 'd'
+La persona p5 abona 0 plantas de tipo 't'
+La persona p6 abona 3 plantas de tipo 'a'
+La persona p6 abona 0 plantas de tipo 'b'
+La persona p6 abona 0 plantas de tipo 'c'
+La persona p6 abona 0 plantas de tipo 'd'
+La persona p6 abona 2 plantas de tipo 't'
+La persona p7 abona 1 plantas de tipo 'a'
+La persona p7 abona 1 plantas de tipo 'b'
+La persona p7 abona 1 plantas de tipo 'c'
+La persona p7 abona 1 plantas de tipo 'd'
+La persona p7 abona 1 plantas de tipo 't'
+
+RONDA 8
+La persona p1 abona 5 plantas de tipo 'a'
+La persona p1 abona 5 plantas de tipo 'b'
+La persona p1 abona 5 plantas de tipo 'c'
+La persona p1 abona 5 plantas de tipo 'd'
+La persona p1 abona 5 plantas de tipo 't'
+La persona p2 abona 2 plantas de tipo 'a'
+La persona p2 abona 1 plantas de tipo 'b'
+La persona p2 abona 0 plantas de tipo 'c'
+La persona p2 abona 0 plantas de tipo 'd'
+La persona p2 abona 2 plantas de tipo 't'
+La persona p3 abona 2 plantas de tipo 'a'
+La persona p3 abona 2 plantas de tipo 'b'
+La persona p3 abona 2 plantas de tipo 'c'
+La persona p3 abona 2 plantas de tipo 'd'
+La persona p3 abona 2 plantas de tipo 't'
+La persona p4 abona 1 plantas de tipo 'a'
+La persona p4 abona 2 plantas de tipo 'b'
+La persona p4 abona 1 plantas de tipo 'c'
+La persona p4 abona 0 plantas de tipo 'd'
+La persona p4 abona 0 plantas de tipo 't'
+La persona p5 abona 1 plantas de tipo 'a'
+La persona p5 abona 0 plantas de tipo 'b'
+La persona p5 abona 1 plantas de tipo 'c'
+La persona p5 abona 1 plantas de tipo 'd'
+La persona p5 abona 0 plantas de tipo 't'
+La persona p6 abona 3 plantas de tipo 'a'
+La persona p6 abona 0 plantas de tipo 'b'
+La persona p6 abona 0 plantas de tipo 'c'
+La persona p6 abona 0 plantas de tipo 'd'
+La persona p6 abona 2 plantas de tipo 't'
+La persona p7 abona 1 plantas de tipo 'a'
+La persona p7 abona 1 plantas de tipo 'b'
+La persona p7 abona 1 plantas de tipo 'c'
+La persona p7 abona 1 plantas de tipo 'd'
+La persona p7 abona 1 plantas de tipo 't'
+-------------------------------
+1. Huerta : 
+t t b 
+t t c 
+t a a 
+Cuidador Zombie: p1
+Estado de la finca
+[0,0]
+Trifido: true
+Posicion:  (0,0)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+[0,1]
+Trifido: true
+Posicion:  (0,1)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+[0,2]
+Trifido: false
+Nombre: b
+Estado: germinado
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+Trifido: true
+Posicion:  (1,0)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+[1,1]
+Trifido: true
+Posicion:  (1,1)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: c
+Estado: germinado
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+Trifido: true
+Posicion:  (2,0)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,1]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+2. Huerta : 
+- - b 
+- a a 
+- t t 
+Cuidador Inmune: p2
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> nombre: b; peso: 8.000; estado: comestible
+pos. 1 -> nombre: b; peso: 6.000; estado: comestible
+pos. 2 -> nombre: b; peso: 4.000; estado: comestible
+pos. 3 -> nombre: b; peso: 2.000; estado: comestible
+[1,0]
+[1,1]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+[1,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+[2,0]
+[2,1]
+Trifido: true
+Posicion:  (2,1)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: true
+Posicion:  (2,2)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+3. Huerta : 
+- t t 
+- a a 
+- - c 
+Cuidador Zombie: p3
+Estado de la finca
+[0,0]
+[0,1]
+Trifido: true
+Posicion:  (0,1)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+[0,2]
+Trifido: true
+Posicion:  (0,2)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+[1,0]
+[1,1]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: c
+Estado: germinado
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+4. Huerta : 
+- - c 
+- - a 
+- b b 
+Cuidador Persona: p4
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> nombre: c; peso: 8.000; estado: comestible
+pos. 1 -> nombre: c; peso: 6.000; estado: comestible
+pos. 2 -> nombre: c; peso: 4.000; estado: comestible
+pos. 3 -> nombre: c; peso: 2.000; estado: comestible
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+[2,0]
+[2,1]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> nombre: b; peso: 8.000; estado: comestible
+pos. 1 -> nombre: b; peso: 6.000; estado: comestible
+pos. 2 -> nombre: b; peso: 4.000; estado: comestible
+pos. 3 -> nombre: b; peso: 2.000; estado: comestible
+[2,2]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> nombre: b; peso: 8.000; estado: comestible
+pos. 1 -> nombre: b; peso: 6.000; estado: comestible
+pos. 2 -> nombre: b; peso: 4.000; estado: comestible
+pos. 3 -> nombre: b; peso: 2.000; estado: comestible
+-------------------------------
+5. Huerta : 
+- - d 
+- - a 
+- - c 
+Cuidador Persona: p5
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: d
+Estado: adulta
+Nombre de sus frutos: d
+Num. max: 4
+pos. 0 -> nombre: d; peso: 8.000; estado: comestible
+pos. 1 -> nombre: d; peso: 6.000; estado: comestible
+pos. 2 -> nombre: d; peso: 4.000; estado: comestible
+pos. 3 -> nombre: d; peso: 2.000; estado: comestible
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> nombre: c; peso: 8.000; estado: comestible
+pos. 1 -> nombre: c; peso: 6.000; estado: comestible
+pos. 2 -> nombre: c; peso: 4.000; estado: comestible
+pos. 3 -> nombre: c; peso: 2.000; estado: comestible
+-------------------------------
+6. Huerta : 
+- - - 
+- t t 
+a a a 
+Cuidador Inmune: p6
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+Trifido: false
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+[2,1]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+[2,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+-------------------------------
+7. Huerta : 
+- - t 
+- - b 
+- - a 
+Cuidador Zombie: p7
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: true
+Posicion:  (0,2)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: b
+Estado: germinado
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+8. Huerta : 
+- - - 
+- - - 
+- - - 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+
+
+--------------------- Ahora los votantes necesitan combustible para sus vehiculos de alta gama ------------------------
+
+
+La persona p2 se apropia de un vehiculo: true
+La persona p6 se apropia de un vehiculo: false
+La persona p2 se apropia de un vehiculo: false
+La persona p6 se apropia de un vehiculo: true
+La persona p2 se apropia de un vehiculo: false
+La persona p6 se apropia de un vehiculo: false
+La persona p2 se apropia de un vehiculo: false
+La persona p6 se apropia de un vehiculo: false
+
+REPOSTAJE DE p2 : 
+a
+a
+a
+a
+a
+a
+a
+a
+b
+b
+b
+b
+
+REPOSTAJE DE p6 : 
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+-------------------------------
+1. Huerta : 
+t t b 
+t t c 
+t a a 
+Cuidador Zombie: p1
+Estado de la finca
+[0,0]
+Trifido: true
+Posicion:  (0,0)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+[0,1]
+Trifido: true
+Posicion:  (0,1)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+[0,2]
+Trifido: false
+Nombre: b
+Estado: germinado
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+Trifido: true
+Posicion:  (1,0)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+[1,1]
+Trifido: true
+Posicion:  (1,1)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: c
+Estado: germinado
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+Trifido: true
+Posicion:  (2,0)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,1]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+2. Huerta : 
+- - b 
+- a a 
+- t t 
+Cuidador Inmune: p2
+	Tiene vehiculo
+	Combustible: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | 
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+Trifido: true
+Posicion:  (2,1)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: true
+Posicion:  (2,2)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+3. Huerta : 
+- t t 
+- a a 
+- - c 
+Cuidador Zombie: p3
+Estado de la finca
+[0,0]
+[0,1]
+Trifido: true
+Posicion:  (0,1)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+[0,2]
+Trifido: true
+Posicion:  (0,2)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+[1,0]
+[1,1]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: c
+Estado: germinado
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+4. Huerta : 
+- - c 
+- - a 
+- b b 
+Cuidador Persona: p4
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> nombre: c; peso: 8.000; estado: comestible
+pos. 1 -> nombre: c; peso: 6.000; estado: comestible
+pos. 2 -> nombre: c; peso: 4.000; estado: comestible
+pos. 3 -> nombre: c; peso: 2.000; estado: comestible
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+[2,0]
+[2,1]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> nombre: b; peso: 8.000; estado: comestible
+pos. 1 -> nombre: b; peso: 6.000; estado: comestible
+pos. 2 -> nombre: b; peso: 4.000; estado: comestible
+pos. 3 -> nombre: b; peso: 2.000; estado: comestible
+[2,2]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> nombre: b; peso: 8.000; estado: comestible
+pos. 1 -> nombre: b; peso: 6.000; estado: comestible
+pos. 2 -> nombre: b; peso: 4.000; estado: comestible
+pos. 3 -> nombre: b; peso: 2.000; estado: comestible
+-------------------------------
+5. Huerta : 
+- - d 
+- - a 
+- - c 
+Cuidador Persona: p5
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: d
+Estado: adulta
+Nombre de sus frutos: d
+Num. max: 4
+pos. 0 -> nombre: d; peso: 8.000; estado: comestible
+pos. 1 -> nombre: d; peso: 6.000; estado: comestible
+pos. 2 -> nombre: d; peso: 4.000; estado: comestible
+pos. 3 -> nombre: d; peso: 2.000; estado: comestible
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> nombre: c; peso: 8.000; estado: comestible
+pos. 1 -> nombre: c; peso: 6.000; estado: comestible
+pos. 2 -> nombre: c; peso: 4.000; estado: comestible
+pos. 3 -> nombre: c; peso: 2.000; estado: comestible
+-------------------------------
+6. Huerta : 
+- - - 
+- t t 
+a a a 
+Cuidador Inmune: p6
+	Tiene vehiculo
+	Combustible: | | 
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+Trifido: false
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,1]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+7. Huerta : 
+- - t 
+- - b 
+- - a 
+Cuidador Zombie: p7
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: true
+Posicion:  (0,2)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: b
+Estado: germinado
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+8. Huerta : 
+- - - 
+- - - 
+- - - 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+
+
+--------------------- Los inmunes votantes de Vox se pasean para ver a sus compatriotas ------------------------
+
+
+-------------------------------
+1. Huerta : 
+- - b 
+- - c 
+- a a 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: b
+Estado: germinado
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: c
+Estado: germinado
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+2. Huerta : 
+- - b 
+- a a 
+- t t 
+Cuidador Inmune: p2
+	Tiene vehiculo
+	Combustible: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | - - 
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+Trifido: true
+Posicion:  (2,1)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: true
+Posicion:  (2,2)
+Nombre: t
+Estado: semilla
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+3. Huerta : 
+- - - 
+- a a 
+- - c 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: c
+Estado: germinado
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+4. Huerta : 
+- - c 
+- - a 
+- b b 
+Cuidador Persona: p4
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> nombre: c; peso: 8.000; estado: comestible
+pos. 1 -> nombre: c; peso: 6.000; estado: comestible
+pos. 2 -> nombre: c; peso: 4.000; estado: comestible
+pos. 3 -> nombre: c; peso: 2.000; estado: comestible
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+[2,0]
+[2,1]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> nombre: b; peso: 8.000; estado: comestible
+pos. 1 -> nombre: b; peso: 6.000; estado: comestible
+pos. 2 -> nombre: b; peso: 4.000; estado: comestible
+pos. 3 -> nombre: b; peso: 2.000; estado: comestible
+[2,2]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> nombre: b; peso: 8.000; estado: comestible
+pos. 1 -> nombre: b; peso: 6.000; estado: comestible
+pos. 2 -> nombre: b; peso: 4.000; estado: comestible
+pos. 3 -> nombre: b; peso: 2.000; estado: comestible
+-------------------------------
+5. Huerta : 
+- - d 
+- - a 
+- - c 
+Cuidador Persona: p5
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: d
+Estado: adulta
+Nombre de sus frutos: d
+Num. max: 4
+pos. 0 -> nombre: d; peso: 8.000; estado: comestible
+pos. 1 -> nombre: d; peso: 6.000; estado: comestible
+pos. 2 -> nombre: d; peso: 4.000; estado: comestible
+pos. 3 -> nombre: d; peso: 2.000; estado: comestible
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> nombre: c; peso: 8.000; estado: comestible
+pos. 1 -> nombre: c; peso: 6.000; estado: comestible
+pos. 2 -> nombre: c; peso: 4.000; estado: comestible
+pos. 3 -> nombre: c; peso: 2.000; estado: comestible
+-------------------------------
+6. Huerta : 
+- - - 
+- t t 
+a a a 
+Cuidador Inmune: p6
+	Tiene vehiculo
+	Combustible: | | 
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+Trifido: false
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,1]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+7. Huerta : 
+- - t 
+- - b 
+- - a 
+Cuidador Zombie: p7
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: true
+Posicion:  (0,2)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: b
+Estado: germinado
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+8. Huerta : 
+- - - 
+- - - 
+- - - 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+
+
+--------------------- Abascal llega para exterminar la plaga de rojos (trifidos y  zombies) ------------------------
+
+
+La persona El Supremo abona 2 plantas de tipo 'a'
+La persona El Supremo abona 1 plantas de tipo 'b'
+La persona El Supremo abona 1 plantas de tipo 'c'
+La persona El Supremo abona 0 plantas de tipo 'd'
+La persona El Supremo abona 0 plantas de tipo 't'
+La persona El Supremo abona 2 plantas de tipo 'a'
+La persona El Supremo abona 1 plantas de tipo 'b'
+La persona El Supremo abona 1 plantas de tipo 'c'
+La persona El Supremo abona 0 plantas de tipo 'd'
+La persona El Supremo abona 0 plantas de tipo 't'
+La persona El Supremo abona 2 plantas de tipo 'a'
+La persona El Supremo abona 1 plantas de tipo 'b'
+La persona El Supremo abona 1 plantas de tipo 'c'
+La persona El Supremo abona 0 plantas de tipo 'd'
+La persona El Supremo abona 0 plantas de tipo 't'
+La persona El Supremo abona 2 plantas de tipo 'a'
+La persona El Supremo abona 1 plantas de tipo 'b'
+La persona El Supremo abona 1 plantas de tipo 'c'
+La persona El Supremo abona 0 plantas de tipo 'd'
+La persona El Supremo abona 0 plantas de tipo 't'
+La persona El Supremo abona 2 plantas de tipo 'a'
+La persona El Supremo abona 1 plantas de tipo 'b'
+La persona El Supremo abona 1 plantas de tipo 'c'
+La persona El Supremo abona 0 plantas de tipo 'd'
+La persona El Supremo abona 0 plantas de tipo 't'
+La persona El Supremo abona 2 plantas de tipo 'a'
+La persona El Supremo abona 1 plantas de tipo 'b'
+La persona El Supremo abona 1 plantas de tipo 'c'
+La persona El Supremo abona 0 plantas de tipo 'd'
+La persona El Supremo abona 0 plantas de tipo 't'
+La persona El Supremo abona 2 plantas de tipo 'a'
+La persona El Supremo abona 1 plantas de tipo 'b'
+La persona El Supremo abona 1 plantas de tipo 'c'
+La persona El Supremo abona 0 plantas de tipo 'd'
+La persona El Supremo abona 0 plantas de tipo 't'
+La persona El Supremo abona 2 plantas de tipo 'a'
+La persona El Supremo abona 1 plantas de tipo 'b'
+La persona El Supremo abona 1 plantas de tipo 'c'
+La persona El Supremo abona 0 plantas de tipo 'd'
+La persona El Supremo abona 0 plantas de tipo 't'
+
+El Supremo intenta poseer a un caballo true
+El Supremo le da de comer a su caballo con los siguientes frutos: 
+a a a a a a a a b b b b c c c c 
+
+1. Se eliminan 0 trifidos de la huerta.
+2. Se eliminan 2 trifidos de la huerta.
+3. Se eliminan 0 trifidos de la huerta.
+4. Se eliminan 0 trifidos de la huerta.
+5. Se eliminan 0 trifidos de la huerta.
+6. Se eliminan 0 trifidos de la huerta.
+7. Se eliminan 1 trifidos de la huerta.
+8. Se eliminan 0 trifidos de la huerta.
+-------------------------------
+1. Huerta : 
+- - b 
+- - c 
+- a a 
+Cuidador Inmune: El Supremo
+	Tiene vehiculo
+	Combustible: | - - - - - - - - - - - - - - - - - - - 
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+2. Huerta : 
+- - b 
+- a a 
+- - - 
+Cuidador Inmune: p2
+	Tiene vehiculo
+	Combustible: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | - - 
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+-------------------------------
+3. Huerta : 
+- - - 
+- a a 
+- - c 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: c
+Estado: germinado
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+4. Huerta : 
+- - c 
+- - a 
+- b b 
+Cuidador Persona: p4
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> nombre: c; peso: 8.000; estado: comestible
+pos. 1 -> nombre: c; peso: 6.000; estado: comestible
+pos. 2 -> nombre: c; peso: 4.000; estado: comestible
+pos. 3 -> nombre: c; peso: 2.000; estado: comestible
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+[2,0]
+[2,1]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> nombre: b; peso: 8.000; estado: comestible
+pos. 1 -> nombre: b; peso: 6.000; estado: comestible
+pos. 2 -> nombre: b; peso: 4.000; estado: comestible
+pos. 3 -> nombre: b; peso: 2.000; estado: comestible
+[2,2]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> nombre: b; peso: 8.000; estado: comestible
+pos. 1 -> nombre: b; peso: 6.000; estado: comestible
+pos. 2 -> nombre: b; peso: 4.000; estado: comestible
+pos. 3 -> nombre: b; peso: 2.000; estado: comestible
+-------------------------------
+5. Huerta : 
+- - d 
+- - a 
+- - c 
+Cuidador Persona: p5
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: d
+Estado: adulta
+Nombre de sus frutos: d
+Num. max: 4
+pos. 0 -> nombre: d; peso: 8.000; estado: comestible
+pos. 1 -> nombre: d; peso: 6.000; estado: comestible
+pos. 2 -> nombre: d; peso: 4.000; estado: comestible
+pos. 3 -> nombre: d; peso: 2.000; estado: comestible
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> nombre: c; peso: 8.000; estado: comestible
+pos. 1 -> nombre: c; peso: 6.000; estado: comestible
+pos. 2 -> nombre: c; peso: 4.000; estado: comestible
+pos. 3 -> nombre: c; peso: 2.000; estado: comestible
+-------------------------------
+6. Huerta : 
+- - - 
+- t t 
+a a a 
+Cuidador Inmune: p6
+	Tiene vehiculo
+	Combustible: | | 
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+Trifido: false
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,1]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+7. Huerta : 
+- - - 
+- - b 
+- - a 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: b
+Estado: germinado
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+8. Huerta : 
+- - - 
+- - - 
+- - - 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+
+
+--------------------- Espaa ha sido limpiada pero se produce el segundo impacto ------------------------
+
+
+0. Trifido otea: true
+4. Trifido otea: true
+9. Trifido otea: true
+12. Trifido otea: true
+14. Trifido otea: true
+19. Trifido otea: true
+24. Trifido otea: false
+26. Trifido otea: false
+29. Trifido otea: false
+32. Trifido otea: false
+
+-------------------------------
+1. Huerta : 
+- - b 
+- - c 
+- a a 
+Cuidador Inmune: El Supremo
+	Tiene vehiculo
+	Combustible: | - - - - - - - - - - - - - - - - - - - 
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+2. Huerta : 
+- - b 
+- a a 
+- - - 
+Cuidador Inmune: p2
+	Tiene vehiculo
+	Combustible: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | - - 
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+-------------------------------
+3. Huerta : 
+t t t 
+t a a 
+t t c 
+Cuidador: null
+Estado de la finca
+[0,0]
+Trifido: true
+Posicion:  (0,0)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[0,1]
+Trifido: true
+Posicion:  (0,1)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[0,2]
+Trifido: true
+Posicion:  (0,2)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+[1,0]
+Trifido: true
+Posicion:  (1,0)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+[1,1]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+Trifido: true
+Posicion:  (2,0)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+[2,1]
+Trifido: true
+Posicion:  (2,1)
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+[2,2]
+Trifido: false
+Nombre: c
+Estado: germinado
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+4. Huerta : 
+- - c 
+- - a 
+- b b 
+Cuidador Persona: p4
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> nombre: c; peso: 8.000; estado: comestible
+pos. 1 -> nombre: c; peso: 6.000; estado: comestible
+pos. 2 -> nombre: c; peso: 4.000; estado: comestible
+pos. 3 -> nombre: c; peso: 2.000; estado: comestible
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+[2,0]
+[2,1]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> nombre: b; peso: 8.000; estado: comestible
+pos. 1 -> nombre: b; peso: 6.000; estado: comestible
+pos. 2 -> nombre: b; peso: 4.000; estado: comestible
+pos. 3 -> nombre: b; peso: 2.000; estado: comestible
+[2,2]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> nombre: b; peso: 8.000; estado: comestible
+pos. 1 -> nombre: b; peso: 6.000; estado: comestible
+pos. 2 -> nombre: b; peso: 4.000; estado: comestible
+pos. 3 -> nombre: b; peso: 2.000; estado: comestible
+-------------------------------
+5. Huerta : 
+- - d 
+- - a 
+- - c 
+Cuidador Persona: p5
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: d
+Estado: adulta
+Nombre de sus frutos: d
+Num. max: 4
+pos. 0 -> nombre: d; peso: 8.000; estado: comestible
+pos. 1 -> nombre: d; peso: 6.000; estado: comestible
+pos. 2 -> nombre: d; peso: 4.000; estado: comestible
+pos. 3 -> nombre: d; peso: 2.000; estado: comestible
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> nombre: c; peso: 8.000; estado: comestible
+pos. 1 -> nombre: c; peso: 6.000; estado: comestible
+pos. 2 -> nombre: c; peso: 4.000; estado: comestible
+pos. 3 -> nombre: c; peso: 2.000; estado: comestible
+-------------------------------
+6. Huerta : 
+- - - 
+- t t 
+a a a 
+Cuidador Inmune: p6
+	Tiene vehiculo
+	Combustible: | | 
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+Trifido: false
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,1]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+7. Huerta : 
+- - - 
+- - b 
+- - a 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: b
+Estado: germinado
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+8. Huerta : 
+- - - 
+- - - 
+- - - 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+
+
+--------------------- Abascal necesita un nuevo vehiculo, el suyo ya no sirve ------------------------
+
+
+El Supremo se baja de su preciado caballo: true
+Subete al eva Abascal! : true
+La persona El Supremo abona 2 plantas de tipo 'a'
+La persona El Supremo abona 1 plantas de tipo 'b'
+La persona El Supremo abona 1 plantas de tipo 'c'
+La persona El Supremo abona 0 plantas de tipo 'd'
+La persona El Supremo abona 0 plantas de tipo 't'
+La persona El Supremo abona 2 plantas de tipo 'a'
+La persona El Supremo abona 1 plantas de tipo 'b'
+La persona El Supremo abona 1 plantas de tipo 'c'
+La persona El Supremo abona 0 plantas de tipo 'd'
+La persona El Supremo abona 0 plantas de tipo 't'
+La persona El Supremo abona 2 plantas de tipo 'a'
+La persona El Supremo abona 1 plantas de tipo 'b'
+La persona El Supremo abona 1 plantas de tipo 'c'
+La persona El Supremo abona 0 plantas de tipo 'd'
+La persona El Supremo abona 0 plantas de tipo 't'
+La persona El Supremo abona 2 plantas de tipo 'a'
+La persona El Supremo abona 1 plantas de tipo 'b'
+La persona El Supremo abona 1 plantas de tipo 'c'
+La persona El Supremo abona 0 plantas de tipo 'd'
+La persona El Supremo abona 0 plantas de tipo 't'
+La persona El Supremo abona 2 plantas de tipo 'a'
+La persona El Supremo abona 1 plantas de tipo 'b'
+La persona El Supremo abona 1 plantas de tipo 'c'
+La persona El Supremo abona 0 plantas de tipo 'd'
+La persona El Supremo abona 0 plantas de tipo 't'
+La persona El Supremo abona 2 plantas de tipo 'a'
+La persona El Supremo abona 1 plantas de tipo 'b'
+La persona El Supremo abona 1 plantas de tipo 'c'
+La persona El Supremo abona 0 plantas de tipo 'd'
+La persona El Supremo abona 0 plantas de tipo 't'
+La persona El Supremo abona 2 plantas de tipo 'a'
+La persona El Supremo abona 1 plantas de tipo 'b'
+La persona El Supremo abona 1 plantas de tipo 'c'
+La persona El Supremo abona 0 plantas de tipo 'd'
+La persona El Supremo abona 0 plantas de tipo 't'
+La persona El Supremo abona 2 plantas de tipo 'a'
+La persona El Supremo abona 1 plantas de tipo 'b'
+La persona El Supremo abona 1 plantas de tipo 'c'
+La persona El Supremo abona 0 plantas de tipo 'd'
+La persona El Supremo abona 0 plantas de tipo 't'
+El Supremo rellena el eva de combustible: 
+a a a a b b c c 
+
+1. Se eliminan 0 trifidos de la huerta.
+2. Se eliminan 0 trifidos de la huerta.
+3. Se eliminan 6 trifidos de la huerta.
+4. Se eliminan 0 trifidos de la huerta.
+5. Se eliminan 0 trifidos de la huerta.
+6. Se eliminan 0 trifidos de la huerta.
+7. Se eliminan 0 trifidos de la huerta.
+8. Se eliminan 0 trifidos de la huerta.
+-------------------------------
+1. Huerta : 
+- - b 
+- - c 
+- a a 
+Cuidador Inmune: El Supremo
+	Tiene vehiculo
+	Combustible: | | | | | | | | | | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> nombre: b; peso: 0.000; estado: inmaduro
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> nombre: c; peso: 0.000; estado: inmaduro
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 0.000; estado: inmaduro
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 0.000; estado: inmaduro
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+2. Huerta : 
+- - b 
+- a a 
+- - - 
+Cuidador Inmune: p2
+	Tiene vehiculo
+	Combustible: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | - - 
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,0]
+[1,1]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+-------------------------------
+3. Huerta : 
+- - - 
+- a a 
+- - c 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: c
+Estado: germinado
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+4. Huerta : 
+- - c 
+- - a 
+- b b 
+Cuidador Persona: p4
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> nombre: c; peso: 8.000; estado: comestible
+pos. 1 -> nombre: c; peso: 6.000; estado: comestible
+pos. 2 -> nombre: c; peso: 4.000; estado: comestible
+pos. 3 -> nombre: c; peso: 2.000; estado: comestible
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+[2,0]
+[2,1]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> nombre: b; peso: 8.000; estado: comestible
+pos. 1 -> nombre: b; peso: 6.000; estado: comestible
+pos. 2 -> nombre: b; peso: 4.000; estado: comestible
+pos. 3 -> nombre: b; peso: 2.000; estado: comestible
+[2,2]
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> nombre: b; peso: 8.000; estado: comestible
+pos. 1 -> nombre: b; peso: 6.000; estado: comestible
+pos. 2 -> nombre: b; peso: 4.000; estado: comestible
+pos. 3 -> nombre: b; peso: 2.000; estado: comestible
+-------------------------------
+5. Huerta : 
+- - d 
+- - a 
+- - c 
+Cuidador Persona: p5
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+Trifido: false
+Nombre: d
+Estado: adulta
+Nombre de sus frutos: d
+Num. max: 4
+pos. 0 -> nombre: d; peso: 8.000; estado: comestible
+pos. 1 -> nombre: d; peso: 6.000; estado: comestible
+pos. 2 -> nombre: d; peso: 4.000; estado: comestible
+pos. 3 -> nombre: d; peso: 2.000; estado: comestible
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> nombre: c; peso: 8.000; estado: comestible
+pos. 1 -> nombre: c; peso: 6.000; estado: comestible
+pos. 2 -> nombre: c; peso: 4.000; estado: comestible
+pos. 3 -> nombre: c; peso: 2.000; estado: comestible
+-------------------------------
+6. Huerta : 
+- - - 
+- t t 
+a a a 
+Cuidador Inmune: p6
+	Tiene vehiculo
+	Combustible: | | 
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+Trifido: false
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[1,2]
+Trifido: false
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,1]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,2]
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+7. Huerta : 
+- - - 
+- - b 
+- - a 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+Trifido: false
+Nombre: b
+Estado: germinado
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+[2,0]
+[2,1]
+[2,2]
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------
+8. Huerta : 
+- - - 
+- - - 
+- - - 
+Cuidador: null
+Estado de la finca
+[0,0]
+[0,1]
+[0,2]
+[1,0]
+[1,1]
+[1,2]
+[2,0]
+[2,1]
+[2,2]
+
+
+--------------------- Una vez ms, Abascal ha salvado Espaa ------------------------
+
+
+Comprobacion de los atributos de personas, plantas y vheiculos
+
+
+PERSONAS: 
+
+-------------------------------------
+Persona: p1
+-------------------------------------
+Inmune: p2
+	Tiene vehiculo
+	Combustible: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | - - 
+-------------------------------------
+Persona: p3
+-------------------------------------
+Persona: p4
+-------------------------------------
+Persona: p5
+-------------------------------------
+Inmune: p6
+	Tiene vehiculo
+	Combustible: | | 
+-------------------------------------
+Persona: p7
+
+
+PLANTAS: 
+
+-------------------------------------
+Trifido: true
+Posicion:  null
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: true
+Posicion:  null
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 0.000; estado: inmaduro
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: false
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> nombre: c; peso: 0.000; estado: inmaduro
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 0.000; estado: inmaduro
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> nombre: b; peso: 0.000; estado: inmaduro
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: true
+Posicion:  null
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+-------------------------------------
+Trifido: false
+Nombre: c
+Estado: germinado
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: true
+Posicion:  null
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+-------------------------------------
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: true
+Posicion:  null
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+-------------------------------------
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> nombre: b; peso: 8.000; estado: comestible
+pos. 1 -> nombre: b; peso: 6.000; estado: comestible
+pos. 2 -> nombre: b; peso: 4.000; estado: comestible
+pos. 3 -> nombre: b; peso: 2.000; estado: comestible
+-------------------------------------
+Trifido: false
+Nombre: b
+Estado: adulta
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> nombre: b; peso: 8.000; estado: comestible
+pos. 1 -> nombre: b; peso: 6.000; estado: comestible
+pos. 2 -> nombre: b; peso: 4.000; estado: comestible
+pos. 3 -> nombre: b; peso: 2.000; estado: comestible
+-------------------------------------
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+-------------------------------------
+Trifido: false
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> nombre: c; peso: 8.000; estado: comestible
+pos. 1 -> nombre: c; peso: 6.000; estado: comestible
+pos. 2 -> nombre: c; peso: 4.000; estado: comestible
+pos. 3 -> nombre: c; peso: 2.000; estado: comestible
+-------------------------------------
+Trifido: true
+Posicion:  null
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+-------------------------------------
+Trifido: false
+Nombre: c
+Estado: adulta
+Nombre de sus frutos: c
+Num. max: 4
+pos. 0 -> nombre: c; peso: 8.000; estado: comestible
+pos. 1 -> nombre: c; peso: 6.000; estado: comestible
+pos. 2 -> nombre: c; peso: 4.000; estado: comestible
+pos. 3 -> nombre: c; peso: 2.000; estado: comestible
+-------------------------------------
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> nombre: a; peso: 8.000; estado: comestible
+pos. 1 -> nombre: a; peso: 6.000; estado: comestible
+pos. 2 -> nombre: a; peso: 4.000; estado: comestible
+pos. 3 -> nombre: a; peso: 2.000; estado: comestible
+-------------------------------------
+Trifido: false
+Nombre: d
+Estado: adulta
+Nombre de sus frutos: d
+Num. max: 4
+pos. 0 -> nombre: d; peso: 8.000; estado: comestible
+pos. 1 -> nombre: d; peso: 6.000; estado: comestible
+pos. 2 -> nombre: d; peso: 4.000; estado: comestible
+pos. 3 -> nombre: d; peso: 2.000; estado: comestible
+-------------------------------------
+Trifido: false
+Nombre: b
+Estado: semilla
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: true
+Posicion:  null
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+-------------------------------------
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: true
+Posicion:  null
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: false
+Nombre: a
+Estado: adulta
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: true
+Posicion:  null
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: false
+Nombre: a
+Estado: germinado
+Nombre de sus frutos: a
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: false
+Nombre: b
+Estado: germinado
+Nombre de sus frutos: b
+Num. max: 4
+pos. 0 -> 
+pos. 1 -> 
+pos. 2 -> 
+pos. 3 -> 
+-------------------------------------
+Trifido: true
+Posicion:  null
+Nombre: t
+Estado: adulta
+Nombre de sus frutos: t
+Num. max: 4
+pos. 0 -> nombre: t; peso: 70.000; estado: comestible
+pos. 1 -> nombre: t; peso: 70.000; estado: comestible
+pos. 2 -> nombre: t; peso: 68.000; estado: comestible
+pos. 3 -> nombre: t; peso: 68.000; estado: comestible
+
+
+VEHICULOS: 
+
+-------------------------------------
+Ocupante: p2
+Combustible: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | - - 
+-------------------------------------
+Ocupante: p6
+Combustible: | | 
+-------------------------------------
+Ocupante: null
+Combustible: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+-------------------------------------
+Ocupante: null
+Combustible: - - - - - - - - - - - - - - - - - - - - 

@@ -1,0 +1,39 @@
+Plantada: true
+Plantada: true
+Plantada: true
+Plantada: true
+Plantada: true
+
+[ 0 ] : null null null null peral peral 
+
+[ 1 ] : null null null null nogal nogal 
+
+[ 2 ] : null null null null null manzano 
+Abona nogal: 2
+Abona nogal: 2
+Abona peral: 2
+Abona peral: 2
+Abona manzano: 1
+Abona manzano: 1
+Abona nogal: 2
+Abona nogal: 2
+Abona peral: 2
+Abona peral: 2
+Abona manzano: 1
+Abona manzano: 1
+Abona nogal: 2
+Abona nogal: 2
+Abona peral: 2
+Abona peral: 2
+Abona manzano: 1
+Abona manzano: 1
+Fruto: pera Estado: comestible Peso: 0.6000000000000001
+Fruto: pera Estado: comestible Peso: 1.2000000000000002
+Fruto: pera Estado: comestible Peso: 0.6000000000000001
+Fruto: pera Estado: comestible Peso: 1.2000000000000002
+Fruto: nuez Estado: comestible Peso: 0.4
+Fruto: nuez Estado: comestible Peso: 0.8
+Fruto: nuez Estado: comestible Peso: 0.4
+Fruto: nuez Estado: comestible Peso: 0.8
+Fruto: manzana Estado: comestible Peso: 0.4
+Fruto: manzana Estado: comestible Peso: 0.6000000000000001

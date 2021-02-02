@@ -1,0 +1,65 @@
+-----------------------------TRIFIDOOOOO 2-----------------------------
+***HUERTO 1***
+-----------------------------RECOLECTA-----------------------------
+(no deberia salir ningun nombre)
+Frutos recolectados Platanero1: 
+Frutos recolectados Platanero2: 
+
+[ 0 ] : null null null null
+[ 1 ] : null null null Platanero(T)
+
+-----------------------------ARRANCA-----------------------------
+Si el cuidador es zombie: 
+
+[ 0 ] : null null null null
+[ 1 ] : null null null Platanero(T)
+
+Si el cuidador es normal: 
+  Ahora es :Zombie
+
+[ 0 ] : null null null null
+[ 1 ] : null null null Platanero(T)
+
+Si el cuidador es Inmune
+
+[ 0 ] : null null null null
+[ 1 ] : null null null Platanero(T)
+
+***HUERTO 2***
+-----------------------------OTEA-----------------------------
+Platanero1: true  Estado:adulta
+
+[ 0 ] : Platanero(T) null
+[ 1 ] : null null
+
+Lleno huerto
+
+[ 0 ] : Platanero(T) null
+[ 1 ] : null Platanero
+
+Platanero2: true  Estado:adulta
+-----------------------------ABONA-----------------------------
+***HUERTO 3***
+Planto Manzano 1:true Estado:semilla
+
+[ 0 ] : Manzano(T)
+
+Tiene cuidador Zombie
+Abono Manzano 1: true
+Cambio cuidador a Inmune
+Abono Manzano 1: true
+-----------------------------MUESTRO HUERTOS FINALES-----------------------------
+***HUERTO 1***
+
+[ 0 ] : Manzano(T) null null null
+[ 1 ] : null null null Platanero(T)
+
+***HUERTO 2***
+
+[ 0 ] : Platanero(T) Platanero(T)
+[ 1 ] : null Platanero
+
+***HUERTO 3***
+
+[ 0 ] : null
+
